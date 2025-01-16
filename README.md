@@ -4,7 +4,7 @@ Shrinkify is an advanced image compressor and editor that allows you to optimize
 
 ## Screenshot Of Shrinkify
 
-![alt text](Shrinkify.png)
+![alt text](image.png)
 
 ## Features
 
